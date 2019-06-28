@@ -1,6 +1,6 @@
-.wrap
+.wrap    // this class "wrap" use to wrap all page of the web
 {
-	background: #E0FFFF;
+	background: #E0FFFF; //color hex-code for background
 	width: 100%;
 	height: 100%;
 	margin:15px;
@@ -8,7 +8,7 @@
 	align: center;
 	
 }
-.wrap .header ul
+.wrap .header ul //this class make a header to the page
 {
 	padding: 0;
 	margin:0;
@@ -18,7 +18,7 @@
 }
 .tabel
 {
-	align: center;
+	align: center; //align table to center page
 }
 .wrap .header ul li
 {
